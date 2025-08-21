@@ -32,7 +32,7 @@ The main objectives of this project are:
 
 ## 📊 Dataset
 
-The dataset used in this project is the [Laptops Price Dataset](https://www.kaggle.com/datasets/juanmerinobermejo/laptopsprice-dataset/data), hosted on Kaggle.  
+The dataset used in this project is the [Laptops Price Dataset](https://www.kaggle.com/datasets/juanmerinobermejo/laptops-price-dataset), hosted on Kaggle.  
 It contains detailed laptop specifications (brand, processor, RAM, storage, GPU, etc.) along with their prices.  
 
 ---
