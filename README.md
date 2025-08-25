@@ -1,4 +1,5 @@
-# statistical-learning
+# statistical-learning course
+
 # 💻 Statistical Learning Project: Laptop Price Prediction & Clustering
 
 This repository contains a project completed for the course **Statistical Learning** at the **University of Milan**, as part of the Master’s program in *Data Science for Economics*.  
